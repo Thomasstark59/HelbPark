@@ -1,0 +1,1 @@
+//////////////////////////////////////Date : 2022-04-29Current place : 0Current vehicule : voitureBasic price : 20 eurosCurrent discounted price : 10Total to pay = 20 - 10 = 10Cinema discount code : EPF425standart : 5%Game : There is no game//////////////////////////////////////

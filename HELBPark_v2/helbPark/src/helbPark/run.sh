@@ -1,0 +1,3 @@
+javac --module-path /usr/share/openjfx/lib --add-modules=javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web HELBPark.java Car.java Display.java Fabric.java Fichier.java FiftyPourcentForMoto.java FiftyPourcentVan.java Golden.java HELBPark.java Moto.java Motorized.java NoDiscount.java PairDayAndSaturday.java Parking.java PInPlaque.java Place.java Silver.java Standart.java Strategies.java Ticket.java Van.java
+java --module-path /usr/share/openjfx/lib --add-modules=javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web -classpath . HELBPark
+find . -name "*.class" -type f -delete
